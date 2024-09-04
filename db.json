@@ -1,0 +1,479 @@
+{
+  "Tort": [
+    {
+      "id": "17",
+      "rasm": "https://safiabakery.uz/uploads/products/362_1715165233.jpg",
+      "nomi": "Pinke To'rt",
+      "soha": "biznes",
+      "tafsiv": "pushti To'rt juda shirin va hamyonbop",
+      "narx": "120$",
+      "manzil": "Toshknt",
+      "submittedAt": "31.08.2024, 11:23:50",
+      "telefon": "+998 (77) 770-70-70",
+      "email": "dilbekshermatov@gmail.com"
+    },
+    {
+      "id": "24",
+      "rasm": "https://safiabakery.uz/uploads/products/362_1715165233.jpg",
+      "nomi": "Pinke To'rt",
+      "soha": "shaxsiy",
+      "tafsiv": "pushti To'rt juda shirin va hamyonbop",
+      "narx": "110$",
+      "telefon": "+998 (99) 889-59-79",
+      "email": "satimbayevbehruz73@gmail.com",
+      "submittedAt": "31.08.2024, 11:23:50",
+      "manzil": "Toshknt"
+    },
+    {
+      "id": "1725339289318-1eqf3wjho",
+      "nomi": "Oq Tort",
+      "tafsiv": "ozm qilganmas cremi juda ko'p",
+      "narx": "80.000 so'm",
+      "telefon": "+998 88 706 09-03",
+      "rasm": "https://assets.tmecosys.com/image/upload/t_web767x639/img/recipe/ras/Assets/14161EA0-3432-4056-9204-8B846A8BAD42/Derivates/9d9ab322-9ac3-4c9d-8113-97f58696edef.jpg",
+      "manzil": "Toshkent",
+      "email": "dilbekshermatov@gmail.com",
+      "submittedAt": "03.09.2024, 09:54:49"
+    },
+    {
+      "id": "1725363646439-2kemidpc9",
+      "nomi": "qizil tort",
+      "tafsiv": "Jeleli qizil shirin Tort",
+      "narx": "50.000 so'm",
+      "telefon": "+998 88 706 09-03",
+      "rasm": "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",
+      "manzil": "Toshkent",
+      "email": "dilbekshermatov@gmail.com",
+      "submittedAt": "03.09.2024, 16:40:46"
+    }
+  ],
+  "QolMehnati": [
+    {
+      "id": "14",
+      "rasm": "https://daryo.uz/cache/2021/02/b76895caf8776f87d0d0e1065fe91d2c851c4d1c-680x458.jpg",
+      "nomi": "yog'och mashina",
+      "soha": "shaxsi",
+      "tafsiv": "yog'ochdan tatorlangan qol mehnati",
+      "manzil": "Toshknt",
+      "submittedAt": "31.08.2024, 11:23:50",
+      "email": "dilbekshermatov@gmail.com",
+      "telefon": "+998 (99) 889-59-79",
+      "narx": "60$"
+    },
+    {
+      "id": "32",
+      "rasm": "https://daryo.uz/cache/2021/02/b76895caf8776f87d0d0e1065fe91d2c851c4d1c-680x458.jpg",
+      "nomi": "yog'och mashina",
+      "soha": "biznes",
+      "tafsiv": "yog'ochdan tatorlangan qol mehnati",
+      "narx": "40$",
+      "manzil": "Toshknt",
+      "submittedAt": "31.08.2024, 11:23:50",
+      "email": "dilbekshermatov@gmail.com",
+      "telefon": "+998 (99) 889-59-79"
+    }
+  ],
+  "Kiyimlar": [
+    {
+      "id": "671",
+      "rasm": "https://images.uzum.uz/cerble8l08k0o9qh99rg/original.jpg",
+      "nomi": "Termal ichki kiyimi",
+      "soha": "biznes",
+      "tafsiv": "Termal ichki kiyim toplami erkaklar uchun",
+      "narx": "40$",
+      "manzil": "Toshknt",
+      "submittedAt": "31.08.2024, 11:23:50",
+      "email": "dilbekshermatov@gmail.com",
+      "telefon": "+998 (77) 770-70-70"
+    },
+    {
+      "id": "2e",
+      "rasm": "https://images.uzum.uz/cerble8l08k0o9qh99rg/original.jpg",
+      "nomi": "Termal ichki kiyimi",
+      "soha": "biznes",
+      "tafsiv": "Termal ichki kiyim toplami erkaklar uchun",
+      "narx": "40$",
+      "manzil": "Toshknt",
+      "submittedAt": "31.08.2024, 11:23:50",
+      "email": "dilbekshermatov@gmail.com",
+      "telefon": "+998 (77) 770-70-70"
+    }
+  ],
+  "users": [
+    {
+      "id": "17",
+      "email": "dilbek@gmail.com",
+      "parol": "dilbek1233",
+      "yoqtirilganlar": "0",
+      "savat": "0",
+      "eleonlari": {},
+      "kelganhabarlar": "salom",
+      "jonatilganhabarlar": "salom",
+      "submissionLimit": 3
+    },
+    {
+      "id": "c21f",
+      "email": "d",
+      "password": "d",
+      "submissionLimit": 3,
+      "likedItems": [
+        {
+          "id": "24",
+          "rasm": "https://safiabakery.uz/uploads/products/362_1715165233.jpg",
+          "nomi": "pinkk To'rt",
+          "soha": "shaxsiy",
+          "tafsiv": "pushti To'rt juda shirin va hamyonbop",
+          "narx": "110$",
+          "telefon": "+998 (99) 889-59-79",
+          "email": "satimbayevbehruz73@gmail.com",
+          "submittedAt": "31.08.2024, 11:23:50",
+          "manzil": "Toshknt"
+        },
+        {
+          "id": "17",
+          "rasm": "https://safiabakery.uz/uploads/products/362_1715165233.jpg",
+          "nomi": "pinke To'rt",
+          "soha": "biznes",
+          "tafsiv": "pushti To'rt juda shirin va hamyonbop",
+          "narx": "120$",
+          "manzil": "Toshknt",
+          "submittedAt": "31.08.2024, 11:23:50",
+          "telefon": "+998 (77) 770-70-70",
+          "email": "dilbekshermatov@gmail.com"
+        }
+      ],
+      "viewedItems": [
+        {
+          "id": "24",
+          "rasm": "https://safiabakery.uz/uploads/products/362_1715165233.jpg",
+          "nomi": "pinkk To'rt",
+          "soha": "shaxsiy",
+          "tafsiv": "pushti To'rt juda shirin va hamyonbop",
+          "narx": "110$",
+          "telefon": "+998 (99) 889-59-79",
+          "email": "satimbayevbehruz73@gmail.com",
+          "submittedAt": "31.08.2024, 11:23:50",
+          "manzil": "Toshknt"
+        }
+      ]
+    },
+    {
+      "id": "f9f4",
+      "email": "dilbekshermatov@gmail.com",
+      "password": "1",
+      "likedItems": [
+        {
+          "id": "24",
+          "rasm": "https://safiabakery.uz/uploads/products/362_1715165233.jpg",
+          "nomi": "pinkk To'rt",
+          "soha": "shaxsiy",
+          "tafsiv": "pushti To'rt juda shirin va hamyonbop",
+          "narx": "110$",
+          "telefon": "+998 (99) 889-59-79",
+          "email": "satimbayevbehruz73@gmail.com",
+          "submittedAt": "31.08.2024, 11:23:50",
+          "manzil": "Toshknt"
+        }
+      ],
+      "viewedItems": [
+        {
+          "id": "24",
+          "rasm": "https://safiabakery.uz/uploads/products/362_1715165233.jpg",
+          "nomi": "pinkk To'rt",
+          "soha": "shaxsiy",
+          "tafsiv": "pushti To'rt juda shirin va hamyonbop",
+          "narx": "110$",
+          "telefon": "+998 (99) 889-59-79",
+          "email": "satimbayevbehruz73@gmail.com",
+          "submittedAt": "31.08.2024, 11:23:50",
+          "manzil": "Toshknt"
+        },
+        {
+          "id": "671",
+          "rasm": "https://images.uzum.uz/cerble8l08k0o9qh99rg/original.jpg",
+          "nomi": "Termal ichki kiyimi",
+          "soha": "biznes",
+          "tafsiv": "Termal ichki kiyim toplami erkaklar uchun",
+          "narx": "40$",
+          "manzil": "Toshknt",
+          "submittedAt": "31.08.2024, 11:23:50",
+          "email": "dilbekshermatov@gmail.com",
+          "telefon": "+998 (77) 770-70-70"
+        },
+        {
+          "id": "14",
+          "rasm": "https://daryo.uz/cache/2021/02/b76895caf8776f87d0d0e1065fe91d2c851c4d1c-680x458.jpg",
+          "nomi": "yog'och mashina",
+          "soha": "shaxsi",
+          "tafsiv": "yog'ochdan tatorlangan qol mehnati",
+          "manzil": "Toshknt",
+          "submittedAt": "31.08.2024, 11:23:50",
+          "email": "dilbekshermatov@gmail.com",
+          "telefon": "+998 (99) 889-59-79",
+          "narx": "60$"
+        },
+        {
+          "id": "17",
+          "rasm": "https://safiabakery.uz/uploads/products/362_1715165233.jpg",
+          "nomi": "Pinke To'rt",
+          "soha": "biznes",
+          "tafsiv": "pushti To'rt juda shirin va hamyonbop",
+          "narx": "120$",
+          "manzil": "Toshknt",
+          "submittedAt": "31.08.2024, 11:23:50",
+          "telefon": "+998 (77) 770-70-70",
+          "email": "dilbekshermatov@gmail.com"
+        },
+        {
+          "id": "2e",
+          "rasm": "https://images.uzum.uz/cerble8l08k0o9qh99rg/original.jpg",
+          "nomi": "Termal ichki kiyimi",
+          "soha": "biznes",
+          "tafsiv": "Termal ichki kiyim toplami erkaklar uchun",
+          "narx": "40$",
+          "manzil": "Toshknt",
+          "submittedAt": "31.08.2024, 11:23:50",
+          "email": "dilbekshermatov@gmail.com",
+          "telefon": "+998 (77) 770-70-70"
+        },
+        {
+          "id": "32",
+          "rasm": "https://daryo.uz/cache/2021/02/b76895caf8776f87d0d0e1065fe91d2c851c4d1c-680x458.jpg",
+          "nomi": "yog'och mashina",
+          "soha": "biznes",
+          "tafsiv": "yog'ochdan tatorlangan qol mehnati",
+          "narx": "40$",
+          "manzil": "Toshknt",
+          "submittedAt": "31.08.2024, 11:23:50",
+          "email": "dilbekshermatov@gmail.com",
+          "telefon": "+998 (99) 889-59-79"
+        }
+      ],
+      "likeCount": 20000,
+      "submissionLimit": 15
+    },
+    {
+      "id": "42d2",
+      "email": "sss",
+      "password": "s"
+    },
+    {
+      "id": "6cca",
+      "email": "satimbayevbehruz73@gmail.com",
+      "password": "123456b",
+      "likedItems": [
+        {
+          "id": "24",
+          "rasm": "https://safiabakery.uz/uploads/products/362_1715165233.jpg",
+          "nomi": "pink To'rt",
+          "soha": "shaxsiy",
+          "tafsiv": "pushti To'rt juda shirin va hamyonbop",
+          "narx": "100$",
+          "telefon": "+998 (99) 889-59-79",
+          "email": "satimbayevbehruz73@gmail.com",
+          "submittedAt": "31.08.2024, 11:23:50",
+          "manzil": "Toshknt"
+        },
+        {
+          "id": "17",
+          "rasm": "https://safiabakery.uz/uploads/products/362_1715165233.jpg",
+          "nomi": "pink To'rt",
+          "soha": "biznes",
+          "tafsiv": "pushti To'rt juda shirin va hamyonbop",
+          "narx": "120$",
+          "manzil": "Toshknt",
+          "submittedAt": "31.08.2024, 11:23:50",
+          "telefon": "+998 (77) 770-70-70",
+          "email": "dilbekshermatov@gmail.com"
+        },
+        {
+          "id": "2aaa",
+          "nomi": "",
+          "tafsiv": "",
+          "narx": "",
+          "telefon": "",
+          "rasm": "",
+          "manzil": "",
+          "email": "satimbayevbehruz73@gmail.com",
+          "submittedAt": "31.08.2024, 16:10:59"
+        }
+      ],
+      "viewedItems": [
+        {
+          "id": "24",
+          "rasm": "https://safiabakery.uz/uploads/products/362_1715165233.jpg",
+          "nomi": "pinkk To'rt",
+          "soha": "shaxsiy",
+          "tafsiv": "pushti To'rt juda shirin va hamyonbop",
+          "narx": "110$",
+          "telefon": "+998 (99) 889-59-79",
+          "email": "satimbayevbehruz73@gmail.com",
+          "submittedAt": "31.08.2024, 11:23:50",
+          "manzil": "Toshknt"
+        }
+      ],
+      "likeCount": 30000,
+      "balance": 1,
+      "submissionLimit": 6
+    }
+  ],
+  "TortBuyurtmalari": [
+    {
+      "id": "1w",
+      "nomi": "qizg'ish to'rt",
+      "tafsiv": "katta qizg'ish to'rt kerak",
+      "qachongacha": "12/10/2024",
+      "budjet": "200$",
+      "telefon": "+998 (99) 889-59-79",
+      "manzil": "Toshknt",
+      "submittedAt": "31.08.2024, 11:23:50",
+      "email": "dilbekshermatov@gmail.com"
+    }
+  ],
+  "QolMehnatiBuyurtmalari": [
+    {
+      "id": "1e",
+      "nomi": "boshkiyim ",
+      "qachongacha": "12/10/2024",
+      "tafsiv": "boshkiyim kerkak to'qilganidan rangi ko'k bolsin",
+      "budjet": "22$",
+      "telefon": "+998 (99) 889-59-79",
+      "email": "dilbekshermatov@gmail.com",
+      "submittedAt": "31.08.2024, 11:23:50",
+      "manzil": "Toshknt"
+    }
+  ],
+  "KiyimlarBuyurtmalari": [
+    {
+      "id": "1f",
+      "nomi": "qizg'ish koylak",
+      "tafsiv": "XL qizg'ish koylak kerak",
+      "qachongacha": "11/11/2024",
+      "budjet": "300$",
+      "telefon": "+998 (99) 889-49-79",
+      "submittedAt": "31.08.2024, 11:23:50",
+      "email": "dilbekshermatov@gmail.com",
+      "manzil": "Toshknt"
+    }
+  ],
+  "BarchaElonlar": [
+    {
+      "id": "671",
+      "rasm": "https://images.uzum.uz/cerble8l08k0o9qh99rg/original.jpg",
+      "nomi": "Termal ichki kiyimi",
+      "soha": "biznes",
+      "tafsiv": "Termal ichki kiyim toplami erkaklar uchun",
+      "narx": "40$",
+      "manzil": "Toshknt",
+      "submittedAt": "31.08.2024, 11:23:50",
+      "email": "dilbekshermatov@gmail.com",
+      "telefon": "+998 (77) 770-70-70"
+    },
+    {
+      "id": "2e",
+      "rasm": "https://images.uzum.uz/cerble8l08k0o9qh99rg/original.jpg",
+      "nomi": "Termal ichki kiyimi",
+      "soha": "biznes",
+      "tafsiv": "Termal ichki kiyim toplami erkaklar uchun",
+      "narx": "40$",
+      "manzil": "Toshknt",
+      "submittedAt": "31.08.2024, 11:23:50",
+      "email": "dilbekshermatov@gmail.com",
+      "telefon": "+998 (77) 770-70-70"
+    },
+    {
+      "id": "14",
+      "rasm": "https://daryo.uz/cache/2021/02/b76895caf8776f87d0d0e1065fe91d2c851c4d1c-680x458.jpg",
+      "nomi": "yog'och mashina",
+      "soha": "shaxsi",
+      "tafsiv": "yog'ochdan tayorlangan qol mehnati",
+      "manzil": "Toshknt",
+      "submittedAt": "31.08.2024, 11:23:50",
+      "email": "dilbekshermatov@gmail.com",
+      "telefon": "+998 (99) 889-59-79",
+      "narx": "60$"
+    },
+    {
+      "id": "32",
+      "rasm": "https://daryo.uz/cache/2021/02/b76895caf8776f87d0d0e1065fe91d2c851c4d1c-680x458.jpg",
+      "nomi": "yog'och mashina",
+      "soha": "biznes",
+      "tafsiv": "yog'ochdan tayorlangan qol mehnati",
+      "manzil": "Toshknt",
+      "submittedAt": "31.08.2024, 11:23:50",
+      "email": "dilbekshermatov@gmail.com",
+      "telefon": "+998 (99) 889-59-79",
+      "narx": "40$"
+    },
+    {
+      "id": "17",
+      "rasm": "https://safiabakery.uz/uploads/products/362_1715165233.jpg",
+      "nomi": "pink To'rt",
+      "soha": "biznes",
+      "tafsiv": "pushti To'rt juda shirin va hamyonbop",
+      "narx": "120$",
+      "manzil": "Toshknt",
+      "submittedAt": "31.08.2024, 11:23:50",
+      "telefon": "+998 (77) 770-70-70",
+      "email": "dilbekshermatov@gmail.com"
+    },
+    {
+      "id": "24",
+      "rasm": "https://safiabakery.uz/uploads/products/362_1715165233.jpg",
+      "nomi": "pinkk To'rt",
+      "soha": "shaxsiy",
+      "tafsiv": "pushti To'rt juda shirin va hamyonbop",
+      "narx": "110$",
+      "telefon": "+998 (99) 889-59-79",
+      "email": "satimbayevbehruz73@gmail.com",
+      "submittedAt": "31.08.2024, 11:23:50",
+      "manzil": "Toshknt"
+    },
+    {
+      "id": "1725339289318-1eqf3wjho",
+      "nomi": "Oq Tort",
+      "tafsiv": "ozm qilganmas cremi juda ko'p",
+      "narx": "80.000 so'm",
+      "telefon": "+998 88 706 09-03",
+      "rasm": "https://assets.tmecosys.com/image/upload/t_web767x639/img/recipe/ras/Assets/14161EA0-3432-4056-9204-8B846A8BAD42/Derivates/9d9ab322-9ac3-4c9d-8113-97f58696edef.jpg",
+      "manzil": "Toshkent",
+      "email": "dilbekshermatov@gmail.com",
+      "submittedAt": "03.09.2024, 09:54:49"
+    }
+  ],
+  "BarchaBuyurtmalar": [
+    {
+      "id": "1w",
+      "nomi": "boshkiyim ",
+      "qachongacha": "12/10/2024",
+      "tafsiv": "boshkiyim kerkak to'qilganidan rangi ko'k bolsin",
+      "budjet": "22$",
+      "telefon": "+998 (99) 889-59-79",
+      "email": "dilbekshermatov@gmail.com",
+      "submittedAt": "31.08.2024, 11:23:50",
+      "manzil": "Toshknt"
+    },
+    {
+      "id": "1e",
+      "nomi": "boshkiyim ",
+      "qachongacha": "12/10/2024",
+      "tafsiv": "boshkiyim kerkak to'qilganidan rangi ko'k bolsin",
+      "budjet": "22$",
+      "telefon": "+998 (99) 889-59-79",
+      "submittedAt": "31.08.2024, 11:23:50",
+      "email": "dilbekshermatov@gmail.com",
+      "manzil": "Toshknt"
+    },
+    {
+      "id": "1f",
+      "nomi": "qizg'ish koylak",
+      "tafsiv": "XL qizg'ish koylak kerak",
+      "qachongacha": "11/11/2024",
+      "budjet": "300$",
+      "submittedAt": "31.08.2024, 11:23:50",
+      "telefon": "+998 (99) 889-49-79",
+      "email": "dilbekshermatov@gmail.com",
+      "manzil": "Toshknt"
+    }
+  ]
+}
