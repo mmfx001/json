@@ -4,7 +4,7 @@ const router = jsonServer.router('db.json');
 const middlewares = jsonServer.defaults();
 
 server.use(middlewares);
-server.use(router);
+server.use('/api', router); 
 
 const PORT = process.env.PORT || 3000;
 server.listen(PORT, () => {
